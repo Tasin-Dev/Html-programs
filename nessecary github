@@ -1,6 +1,10 @@
+Thanks for coming here
+some important commands for beginers
+------------------------start----------------------------
 echo "# Html-programs" >> README.md(dir name)
 git init
 git add README.md
 git commit -m "first commit"(comment here)
 git remote add origin https://github.com/Tasin-Dev/Html-programs.git (url/http)
 git push -u origin master
+-----------------------END-----------------------------------
